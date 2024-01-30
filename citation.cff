@@ -1,12 +1,36 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
+
   - family-names: Afentoulidou
     given-names: Eirini
     orcid: https://orcid.org/0000-0001-7290-7865
-title: "2023--byzantine-greek"
-version: 2.0.4
+  - family-names: Arıkan-Caba
+    given-names: Canan
+    orcid: https://orcid.org/0000-0003-3281-5178
+  - family-names: Hofstetter
+    given-names: Carole
+    orcid: https://orcid.org/0000-0002-0961-7491
+  - family-names: Mitov
+    given-names: Georgi
+    orcid: https://orcid.org/0000-0001-8971-4971
+  - family-names: Leontaridis
+    given-names: Panagiotis
+    orcid: https://orcid.org/0009-0009-1820-8567
+  - family-names: Argyriou
+    given-names: Louiza
+    orcid: https://orcid.org/0009-0004-8591-2355
+  - family-names: Tsakona
+    given-names: Konstantina
+    orcid: https://orcid.org/0009-0002-9406-1981
+  - family-names: Zaloumis
+    given-names: Angelos
+    orcid: https://orcid.org/0000-0008-1314-6638
+    
+title: "Transkribus - 2023--byzantine-greek"
+version: 1.0.0
 identifiers:
   - type: doi
-    value: ***
-date-released: 2024-01-29
+    value: 10.5281/zenodo.1234
+date-released: 2024-01-30
+
