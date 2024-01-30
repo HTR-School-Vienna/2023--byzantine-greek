@@ -25,10 +25,13 @@ authors:
     orcid: https://orcid.org/0009-0002-9406-1981
   - family-names: Zaloumis
     given-names: Angelos
-    orcid: https://orcid.org/0000-0008-1314-6638
+    orcid: https://orcid.org/0009-0008-1314-6638
   - family-names: Nikias
     given-names: Kyriaco
     orcid: https://orcid.org/0000-0002-3769-8866
+- family-names: Scieri
+    given-names: Emanuele
+    orcid: https://orcid.org/0009-0009-1182-1449
 title: "Transkribus - 2023--byzantine-greek"
 version: 1.0.0
 identifiers:
